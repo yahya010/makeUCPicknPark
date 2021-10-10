@@ -16,7 +16,7 @@ Object Command:
 Car Command:
 - python object_size.py --image images/example_01.png --width 500
 
-Steps involved:
+##Steps involved:
 Find contours in the image.
 Get the minimum area rectangle for the contours.
 Draw the mid points and the lines joining mid points of the bounding rectangle of the contours.
@@ -31,7 +31,7 @@ We should be able to easily find this reference object in the image, either base
 Used the United States quarter as the reference object.
 Used the OpenCV's find contours method to find the objects in the image and calculated their dimensions.
 
-Second Algorithm:
+##Second Algorithm:
 Uses frozen_inference_graph.pb, main.py, and coco.names
 Command:
 Run main.py which will use webcam to identify objects shown
