@@ -7,7 +7,7 @@
 > and determines the type and length of the vehicle.
 
 ## Running the Algorithm
-> Uses scripts object_size.py and object_size_mine.py
+> Uses scripts object_size.py and object_size_mine.py.
 > To run the application, execute the following commands.
 
 Object Command:
